@@ -1,0 +1,54 @@
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\bin\Debug\NofaTextEditor.exe
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\bin\Debug\NofaTextEditor.pdb
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.Form1.resources
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.Properties.Resources.resources
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.csproj.GenerateResource.Cache
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.exe
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.pdb
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.csproj.ResolveComReference.cache
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\bin\Debug\HTMLWYSIWYG.dll
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\bin\Debug\HTMLWYSIWYG.pdb
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.Form2.resources
+C:\Users\Kml\Documents\Visual Studio 2012\Projects\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.Form3.resources
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.csproj.ResolveComReference.cache
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.exe
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.pdb
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.Form1.resources
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.Form2.resources
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.Form3.resources
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.Properties.Resources.resources
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\obj\Debug\NofaTextEditor.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\bin\Debug\NofaTextEditor.exe
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\bin\Debug\NofaTextEditor.pdb
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\bin\Debug\HTMLWYSIWYG.dll
+C:\Users\Adrian\Desktop\NofaTextEditor\NofaTextEditor\bin\Debug\HTMLWYSIWYG.pdb
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.csproj.ResolveComReference.cache
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.exe
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.pdb
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\NofaTextEditor.exe
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\NofaTextEditor.pdb
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\HTMLWYSIWYG.dll
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\HTMLWYSIWYG.pdb
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.Form1.resources
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.Form2.resources
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.Form3.resources
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.Properties.Resources.resources
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.Form4.resources
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.csproj.ResolveComReference.cache
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.exe
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.pdb
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\NofaTextEditor.exe
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\NofaTextEditor.pdb
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\HTMLWYSIWYG.dll
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\HTMLWYSIWYG.pdb
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.Properties.Resources.resources
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.csproj.GenerateResource.Cache
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.NoteList.resources
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.NewNote.resources
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.NoteEditor.resources

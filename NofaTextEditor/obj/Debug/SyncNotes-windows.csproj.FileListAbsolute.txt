@@ -1,0 +1,27 @@
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\NofaTextEditor.exe
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\NofaTextEditor.pdb
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\SyncNotes-windows.csproj.ResolveComReference.cache
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.NoteEditor.resources
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.NoteList.resources
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.NewNote.resources
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.Properties.Resources.resources
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\SyncNotes-windows.csproj.GenerateResource.Cache
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.exe
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.pdb
+C:\Users\otwieracz\Documents\syncnotes-windows\NofaTextEditor\obj\Debug\SyncNotes-windows.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\SyncNotes-windows.csproj.ResolveComReference.cache
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.exe
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.pdb
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\bin\Debug\NofaTextEditor.exe
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\bin\Debug\NofaTextEditor.pdb
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\SyncNotes-windows.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.NoteEditor.resources
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.NoteList.resources
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.NewNote.resources
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.Properties.Resources.resources
+C:\Users\Adrian\SkyDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\SyncNotes-windows.csproj.GenerateResource.Cache
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\SyncNotes-windows.csproj.ResolveComReference.cache
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.exe
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Software engineering\Projekt\syncnotes-windows\NofaTextEditor\obj\Debug\NofaTextEditor.pdb
